@@ -1,3 +1,5 @@
+นี่ลิ้งเข้าเว็บครับ: https://show-case-phi.vercel.app/ ขอบคุณครับ
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
